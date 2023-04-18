@@ -1,0 +1,16 @@
+127.0.0.1 - - [12/Mar/2023:01:10:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:57 +0530] "GET /project_3/ HTTP/1.1" 200 652
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:57 +0530] "GET /project_3/img/custom.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:57 +0530] "GET /project_3/img/book2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:59 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3705
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:59 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:10:59 +0530] "GET /project_3/img/im1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:11:02 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11774
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:11:03 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:11:03 +0530] "GET /project_3/img/pic1.jpg HTTP/1.1" 200 41419
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:11:03 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:14:40 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11779
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:14:40 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:14:40 +0530] "GET /project_3/img/47054wide.jpg HTTP/1.1" 200 473441
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:01:14:40 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
